@@ -9,3 +9,6 @@
 
 ### Mobile View
 ![WhatsApp Image 2021-07-12 at 1 08 10 AM](https://user-images.githubusercontent.com/43047963/125214240-dc68b000-e2ad-11eb-9ec7-459193ab2c0e.jpeg)
+
+### Hosted site
+You can visit the hosted site here [live site:] (https://sarahokenwa.github.io/Counter-App/)
